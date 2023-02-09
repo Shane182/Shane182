@@ -6,9 +6,6 @@ Digital Journeyman (Developer & Learner)
 
 I am a recent Computer Science graduate from Indiana University of Pennsylvania (IUP). I current work as a Computer Technican, however I a interested in starting a carreer as a  Software Engineer or Software Developer.
 
----
-## :handshake: Socials
-
 <p align="left"> 
 <a href="https://www.linkedin.com/in/shane-peterson-731312178/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /></a>
 </p>
@@ -55,7 +52,7 @@ I am a recent Computer Science graduate from Indiana University of Pennsylvania 
 
 <br />
 
----
+#
 
 ## :bar_chart: Stats
 
