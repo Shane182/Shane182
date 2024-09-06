@@ -18,8 +18,6 @@ I am a recent Computer Science graduate from Indiana University of Pennsylvania 
 
 <img align="left" alt="Python" width="26px" style="padding-right:4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-<img align="left" alt="C" width="26px" style="padding-right:4px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-
 <img align="left" alt="R" width="26px" style="padding-right:4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 
 <img align="left" alt="MATLAB" width="26px" style="padding-right:4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
